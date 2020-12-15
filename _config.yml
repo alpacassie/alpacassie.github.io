@@ -9,6 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Programming: Python, R
   <br><br>
   Database: SQL
+  <br><br>
   <a href="https://www.linkedin.com/in/jy-zng/">View My LinkedIn Profile</a> <br />
   <a href="https://public.tableau.com/profile/cassie.jingyi.zhang#!/?newProfile=&activeTab=0">View My Tableau Public</a> <br />  
 theme: jekyll-theme-minimal
