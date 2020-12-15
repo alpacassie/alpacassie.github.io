@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Redfin Housing Market Analysis 
 
 [Project 1 Title](/sample_page)
 <img src="images/redfin viz.png?raw=true"/>
