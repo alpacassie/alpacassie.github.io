@@ -2,9 +2,9 @@ title: Cassie Zhang # your name (or website title) here
 logo: "/images/IMG_7643.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  Hi!
+  <Hi!>
   Second description 
-  Hi!
+  <Hi!>
   <a href="https://www.linkedin.com/in/jy-zng/">View My LinkedIn Profile</a> 
   <a href="https://public.tableau.com/profile/cassie.jingyi.zhang#!/?newProfile=&activeTab=0">View My Tableau Public</a>   
 theme: jekyll-theme-minimal
