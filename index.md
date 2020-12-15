@@ -2,9 +2,9 @@
 
 ---
 
-### Redfin Housing Market Analysis 
+### Data Visualization
 
-[Project 1 Title](/sample_page)
+[Redfin Housing Market Analysis](/sample_page)
 <img src="images/redfin viz.png?raw=true"/>
 
 ---
