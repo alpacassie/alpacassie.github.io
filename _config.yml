@@ -7,10 +7,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently, I'm part of Leaf Group's Business Intelligence Team, build complicated data sources in BigQuery and informative dashboards in Tableau for large e-commerce brands including Society6.com, Deny Designs, and Saatchi Art. 
   <br><br>
   Programming: Python, R
+  <br><br>
   Database: SQL
   <a href="https://www.linkedin.com/in/jy-zng/">View My LinkedIn Profile</a> <br />
-  <a href="https://public.tableau.com/profile/cassie.jingyi.zhang#!/?newProfile=&activeTab=0">View My Tableau Public</a> <br />
-  
-  
+  <a href="https://public.tableau.com/profile/cassie.jingyi.zhang#!/?newProfile=&activeTab=0">View My Tableau Public</a> <br />  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
